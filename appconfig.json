@@ -1,0 +1,12 @@
+{
+    "appName": "Archaeology Materials",
+    "description": "Tracks materials as they appear in the chat box.",
+    "appUrl": "https://dirhazg.github.io/arch-mats/",
+    "configUrl": "https://dirhazg.github.io/arch-mats/appconfig.json",
+    "iconUrl": "https://dirhazg.github.io/arch-mats/images/archaeology.png",
+    "defaultWidth": 277,
+    "defaultHeight": 551,
+    "requestHandlers": [],
+    "activators": [],
+    "permissions": "pixel,gamestate,overlay"
+}
