@@ -301,7 +301,7 @@ else {
         window.addEventListener('storage', onStorageEvent, false);
 
         $(".openImport").click(function () {
-            window.open("/ArchMatCounter/artefacts.html", "", "width=400")
+            window.open("/arch-mats/artefacts.html", "", "width=400")
         })
 
         // $("#test").click(function () {
